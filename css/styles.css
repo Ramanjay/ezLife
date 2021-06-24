@@ -1,0 +1,59 @@
+.grey-section{
+    background-color:#fff;
+}
+.yellow-section{
+    background-color: #f0e3ca;
+}
+h2,h3,h4,h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* navbar */
+#nav{
+    padding-top: 1%;
+    padding-left: 5%;
+}
+#logo-txt{
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+    padding-right: 2rem;
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* title  */
+#title{
+    font-size: 3rem;
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* home image */
+.home-img{
+    width: 100%;
+    padding-bottom: 100px;
+}
+/* services */
+
+#services-heading{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.row{
+    justify-content: space-evenly;
+}
+.card{
+    width: 10rem;
+    margin: 15px;
+}
+/* about us */
+/* form */
+/* footer */
+#footer{
+    text-align: center;
+}

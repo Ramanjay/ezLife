@@ -1,0 +1,40 @@
+.grey-section{
+    background-color:#fff;
+}
+.yellow-section{
+    background-color: #f0e3ca;
+}
+h2,h3,h4,h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #f0e3ca;
+}
+
+/* navbar */
+#nav{
+    padding-top: 1%;
+    padding-left: 5%;
+}
+#logo-txt{
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+    padding-right: 2rem;
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* login/signup form */
+.form-display{
+    padding: 10% 10% 0% 10%;
+}
+.service-img{
+    width: 100%;
+}
+
+/* footer */
+#footer{
+    text-align: center;
+}
